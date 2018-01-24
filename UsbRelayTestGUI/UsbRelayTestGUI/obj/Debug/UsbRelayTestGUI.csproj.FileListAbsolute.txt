@@ -1,0 +1,10 @@
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\bin\Debug\UsbRelayTestGUI.exe.config
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\bin\Debug\UsbRelayTestGUI.exe
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\bin\Debug\UsbRelayTestGUI.pdb
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.csprojResolveAssemblyReference.cache
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.FormMain.resources
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.Properties.Resources.resources
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.csproj.GenerateResource.Cache
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.csproj.CoreCompileInputs.cache
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.exe
+C:\Projects\Git\UsbRelayTestGUI\UsbRelayTestGUI\obj\Debug\UsbRelayTestGUI.pdb
